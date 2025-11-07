@@ -79,3 +79,48 @@ Filtros dinâmicos para refinar as análises por período, região e categoria.
 ---
 
 ## 📂 Estrutura do Repositório
+📁 Projeto-PowerBI-Vendas/
+┣ 📄 README.md
+┣ 📄 dashboard.pbix
+┣ 📁 dados/
+┃ ┗ 📊 base_de_dados.xlsx
+┣ 📁 imagens/
+┃ ┣ powerquery.png
+┃ ┣ dax.png
+┃ ┣ pagina_inicial.png
+┃ ┣ tool_tip.png
+┃ ┣ drill_through.png
+┃ ┗ filtros.png
+┗ 📁 scripts/
+┗ transformacoes_powerquery.txt
+
+
+
+---
+
+## 🔗 Acesso ao Dashboard Online
+Você pode visualizar o relatório publicado diretamente no Power BI Service:
+
+👉 [**Acessar Dashboard Interativo**](https://app.powerbi.com/view?r=SEU_LINK_PUBLICO_AQUI)
+
+*(Caso o link não funcione, pode ser necessário fazer login no Power BI Service.)*
+
+---
+
+## 💡 Insights Obtidos
+- Produto X é o mais vendido globalmente, representando 35% da receita.
+- A região Norte apresentou o maior crescimento no último trimestre.
+- Lucro médio mensal teve aumento de 12% após ajustes de precificação.
+- Clientes recorrentes representam 65% do faturamento total.
+
+---
+
+## 👨‍💻 Autor
+**Kaique Vieira**  
+📍 Analista de Dados | Power BI | SQL | Excel | DAX  
+🔗 [LinkedIn](https://www.linkedin.com/in/seu-perfil) • [GitHub](https://github.com/seuusuario)
+
+---
+
+⭐ Se este projeto te ajudou, **deixe uma estrela** no repositório para apoiar!
+
