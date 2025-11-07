@@ -76,28 +76,6 @@ Filtros dinâmicos para refinar as análises por período, região e categoria.
   <img src="imagens/filtros.png" alt="Filtros e Segmentações" width="700"/>
 </p>
 
----
-
-## 📂 Estrutura do Repositório
-📁 Projeto-PowerBI-Vendas/
-┣ 📄 README.md
-┣ 📄 dashboard.pbix
-┣ 📁 dados/
-┃ ┗ 📊 base_de_dados.xlsx
-┣ 📁 imagens/
-┃ ┣ powerquery.png
-┃ ┣ dax.png
-┃ ┣ pagina_inicial.png
-┃ ┣ tool_tip.png
-┃ ┣ drill_through.png
-┃ ┗ filtros.png
-┗ 📁 scripts/
-┗ transformacoes_powerquery.txt
-
-
-
----
-
 ## 🔗 Acesso ao Dashboard Online
 Você pode visualizar o relatório publicado diretamente no Power BI Service:
 
