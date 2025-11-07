@@ -1,23 +1,38 @@
-# 📊 Projeto Power BI – Análise de Vendas Globais
+# 📊 Projeto Power BI – Sales Overview
 
 <p align="center">
-  <img src="imagens/pagina_inicial.png" alt="Capa do Dashboard" width="700"/>
+  <img src="imagens/pagina_inicial.png" alt="Página Inicial do Dashboard" width="700"/>
 </p>
 
 ---
 
 ## 🧠 Sobre o Projeto
-Este projeto foi desenvolvido no **Power BI** com o objetivo de analisar o desempenho de vendas em diferentes regiões, produtos e períodos, permitindo identificar tendências, oportunidades e gargalos de negócio.
+O **Sales Overview** é um dashboard desenvolvido em **Power BI** com o objetivo de analisar o desempenho de vendas por **região e cidade**, levando em conta coordenadas de **latitude e longitude** e segmentações por **Business Line**, como **aditivos e lubrificantes**.
 
-O dashboard foi construído com base em dados de vendas fictícios, passando por todas as etapas do processo de **análise de dados** — desde a **extração e transformação (ETL)** até a **criação de KPIs e visualizações interativas**.
+O projeto consolida dados de vendas e custos, oferecendo uma visão estratégica sobre a performance comercial, permitindo identificar **tendências regionais**, **margens de lucro** e **oportunidades de otimização**.
+
+---
+
+## 🚀 Objetivo Principal
+Analisar as **vendas por região e cidade**, explorando diferentes níveis de detalhe e interatividade, como **tooltips**, **drill-throughs** e **filtros dinâmicos** para facilitar insights sobre o negócio.
+
+---
+
+## 📈 Principais Métricas e KPIs
+- 💰 **Receita Total**
+- 📉 **Custo Total**
+- 📊 **Lucro Percentual**
+- 💹 **Margem (%)**
+- 🔢 **Vendas Mensais**
+- 🧾 **Análise de Margem e Rentabilidade por Linha de Negócio**
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 - 🟡 **Power BI Desktop**
-- 🧩 **Power Query** (para limpeza e modelagem dos dados)
-- 🔢 **DAX (Data Analysis Expressions)** para criação de medidas e KPIs
-- 📈 **Power BI Service** (para publicação e compartilhamento)
+- 🧩 **Power Query** (ETL – Extração e Transformação de Dados)
+- 🔢 **DAX** (Data Analysis Expressions) para medidas e KPIs
+- 📈 **Power BI Service** (publicação e compartilhamento)
 - 📊 **Excel / CSV** como fonte de dados
 
 ---
@@ -25,7 +40,7 @@ O dashboard foi construído com base em dados de vendas fictícios, passando por
 ## 🧩 Etapas do Projeto
 
 ### 1️⃣ **Transformação de Dados – Power Query**
-Tratamento, limpeza e modelagem das tabelas base antes de carregar no modelo.
+Modelagem, tratamento e limpeza das tabelas antes da carga no modelo.
 
 <p align="center">
   <img src="imagens/powerquery.png" alt="Etapa Power Query" width="700"/>
@@ -34,7 +49,7 @@ Tratamento, limpeza e modelagem das tabelas base antes de carregar no modelo.
 ---
 
 ### 2️⃣ **Criação de Medidas – DAX**
-Criação de métricas como receita, lucro, margem e crescimento mensal.
+Construção das principais medidas de desempenho e KPIs.
 
 <p align="center">
   <img src="imagens/dax.png" alt="Etapa DAX" width="700"/>
@@ -43,7 +58,7 @@ Criação de métricas como receita, lucro, margem e crescimento mensal.
 ---
 
 ### 3️⃣ **Página Inicial do Dashboard**
-Visão geral com KPIs principais e indicadores de performance.
+Resumo executivo com KPIs e visão geral das vendas.
 
 <p align="center">
   <img src="imagens/pagina_inicial.png" alt="Página Inicial" width="700"/>
@@ -52,7 +67,7 @@ Visão geral com KPIs principais e indicadores de performance.
 ---
 
 ### 4️⃣ **Tool Tip Personalizado**
-Visualização detalhada de informações ao passar o mouse sobre gráficos.
+Exibe detalhes dinâmicos ao passar o mouse sobre os gráficos.
 
 <p align="center">
   <img src="imagens/tool_tip.png" alt="Tool Tip" width="700"/>
@@ -61,7 +76,7 @@ Visualização detalhada de informações ao passar o mouse sobre gráficos.
 ---
 
 ### 5️⃣ **Drill-through**
-Navegação entre páginas com foco em produtos, regiões ou clientes específicos.
+Permite navegar entre páginas e explorar informações por cidade, região e Business Line.
 
 <p align="center">
   <img src="imagens/drill_through.png" alt="Drill-through" width="700"/>
@@ -70,35 +85,39 @@ Navegação entre páginas com foco em produtos, regiões ou clientes específic
 ---
 
 ### 6️⃣ **Filtros e Segmentações**
-Filtros dinâmicos para refinar as análises por período, região e categoria.
+Filtros interativos que permitem refinar as análises conforme região, produto ou período.
 
 <p align="center">
   <img src="imagens/filtros.png" alt="Filtros e Segmentações" width="700"/>
 </p>
 
-## 🔗 Acesso ao Dashboard Online
-Você pode visualizar o relatório publicado diretamente no Power BI Service:
+---
 
-👉 [**Acessar Dashboard Interativo**](https://app.powerbi.com/view?r=SEU_LINK_PUBLICO_AQUI)
-
-*(Caso o link não funcione, pode ser necessário fazer login no Power BI Service.)*
 
 ---
 
-## 💡 Insights Obtidos
-- Produto X é o mais vendido globalmente, representando 35% da receita.
-- A região Norte apresentou o maior crescimento no último trimestre.
-- Lucro médio mensal teve aumento de 12% após ajustes de precificação.
-- Clientes recorrentes representam 65% do faturamento total.
+## 🔗 Acesso ao Dashboard Online
+Você pode visualizar o relatório completo no Power BI Service:  
+👉 [**Acessar Dashboard Interativo**](https://app.powerbi.com/view?r=eyJrIjoiYjI5Y2E4Y2MtNzkwMy00YjFiLWFmYTYtOGFlYjZlM2E4YmM2IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
+
+---
+
+## 💡 Principais Insights
+- 🌎 A região com maior receita é o **Sul**, concentrando mais de 40% do total.
+- 🏙️ As cidades com melhor performance apresentam maior margem percentual.
+- ⚙️ **Lubrificantes** têm margem superior à de **aditivos** em quase todas as regiões.
+- 📆 A receita apresentou **crescimento consistente mês a mês**, indicando boa tendência de mercado.
 
 ---
 
 ## 👨‍💻 Autor
 **Kaique Vieira**  
 📍 Analista de Dados | Power BI | SQL | Excel | DAX  
-🔗 [LinkedIn](https://www.linkedin.com/in/seu-perfil) • [GitHub](https://github.com/seuusuario)
+
+🔗 [LinkedIn](https://www.linkedin.com/in/kaique-viei)  
+🐙 [GitHub](https://github.com/kahhhexe)
 
 ---
 
-⭐ Se este projeto te ajudou, **deixe uma estrela** no repositório para apoiar!
+⭐ Se este projeto te inspirou, **deixe uma estrela no repositório** para apoiar o trabalho!
 
