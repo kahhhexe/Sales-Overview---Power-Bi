@@ -1,15 +1,15 @@
 # 📊 Projeto Power BI – Sales Overview
 
-<p align="center">
-  <img src="Imagens/Página inicial.png" alt="Página Inicial do Dashboard" width="700"/>
-</p>
-
 ---
 
 ## 🧠 Sobre o Projeto
 O **Sales Overview** é um dashboard desenvolvido em **Power BI** com o objetivo de analisar o desempenho de vendas por **região e cidade**, levando em conta coordenadas de **latitude e longitude** e segmentações por **Business Line**, como **aditivos e lubrificantes**.
 
 O projeto consolida dados de vendas e custos, oferecendo uma visão estratégica sobre a performance comercial, permitindo identificar **tendências regionais**, **margens de lucro** e **oportunidades de otimização**.
+
+<p align="center">
+  <img src="Imagens/Página inicial.png" alt="Página Inicial do Dashboard" width="700"/>
+</p>
 
 ---
 
