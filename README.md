@@ -96,6 +96,9 @@ Permite navegar para outra página que contém informações detalhadas de cada 
 
 ### 6️⃣ **Filtros e Segmentações**
 Filtros interativos que permitem refinar as análises conforme **segmento**, **divisão**, **planta** e **período** (Quartil, Ano e Mês).
+Na primeira imagem eu realizado o desenvolvimento do indicador que ira abrir o meu menu ao clicar no botão.
+Na segunda imagem eu realizado o mesmo procedimento criando um novo indicador, mas agora para fechar o filtro ao clicar no botão voltar.
+E por último o resultado, ficou muito legal.
 
 <p align="center">
   <img src="Imagens/Filtro-in.png" alt="Filtros e Segmentações" width="700"/>
