@@ -142,13 +142,4 @@ Esses aprendizados fortaleceram minha base em **análise de dados**, **visualiza
 
 ---
 
-## 👨‍💻 Autor
-**Kaique Vieira**  
-📍 Analista de Dados | Power BI | SQL | Excel | DAX  
-
-🔗 [LinkedIn](https://www.linkedin.com/in/kaique-viei)  
-🐙 [GitHub](https://github.com/kahhhexe)
-
----
-
 ⭐ Se este projeto te inspirou, **deixe uma estrela no repositório** para apoiar o trabalho!
