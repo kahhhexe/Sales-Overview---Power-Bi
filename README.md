@@ -131,15 +131,16 @@ Você pode visualizar o relatório completo no Power BI Service:
 ## 📚 Aprendizados Técnicos
 Durante o desenvolvimento deste projeto, aprimorei habilidades importantes, como:
 
-- 🔄 **Modelagem de Dados** no Power BI utilizando o conceito de **esquema estrela**.  
+- 🔄 **Modelagem de Dados** no Power BI utilizando.
 - 🧹 **Padronização de dados** com Power Query.  
 - ⚙️ **Criação de medidas DAX** aplicando funções como `DIVIDE` e `SUM` .
 - 📊 **Criação de dashboards interativos** e dinâmicos com recursos avançados (Drill-through, Tooltip e filtros personalizados).  
 - 📈 **Publicação e compartilhamento** do relatório no Power BI Service.  
 - 🧠 **Interpretação de KPIs** e geração de insights estratégicos a partir dos dados.
+- 💻 **Como criar e publicar um portfólio profissional no GitHub**, apresentando projetos de forma organizada e visualmente atrativa.  
 
 Esses aprendizados fortaleceram minha base em **análise de dados**, **visualização de informações** e **tomada de decisão orientada a dados**.
 
 ---
 
-⭐ Se este projeto te inspirou, **deixe uma estrela no repositório** para apoiar o trabalho!
+⭐ Se este projeto te inspirou, **deixe uma estrela no repositório** para apoiar!
