@@ -144,3 +144,7 @@ Esses aprendizados fortaleceram minha base em **análise de dados**, **visualiza
 ---
 
 ⭐ Se este projeto te inspirou, **deixe uma estrela no repositório** para apoiar!
+
+## ⬅️ Voltar ao Meu Perfil
+Quer ver mais projetos e acompanhar minha jornada na área de dados?  
+👉 [**Voltar para o meu perfil no GitHub**](https://github.com/kahhhexe)
